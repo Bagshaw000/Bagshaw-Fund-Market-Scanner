@@ -1,0 +1,6 @@
+fastapi
+prisma
+pytz
+datetime
+polygon
+dotenv
