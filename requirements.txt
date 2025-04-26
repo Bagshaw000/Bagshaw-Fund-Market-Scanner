@@ -4,3 +4,4 @@ pytz
 datetime
 polygon
 dotenv
+uvicorn[standard]
