@@ -1,7 +1,0 @@
-fastapi
-prisma
-pytz
-datetime
-polygon
-dotenv
-uvicorn[standard]
